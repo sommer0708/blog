@@ -15,19 +15,19 @@ Sie können mir Ihre Meinung über das Neue mitteilen und mit mir über Literatu
  
 ## Tags
 ### Dissertation / 论文相关
-- [#Weekly Summary](https://sommer0708.github.io/Nicht-Orte/tags/#Weekly%20Summary) 
+- [#Weekly Summary](https://sommer0708.github.io/tags/weekly-summary/) 
 	- wöchentliche Planungen und Feedbacks / 每周计划打卡+回顾
 - [#Rezensionen]() 
 	- Literarische Rezensionen / 评论性文章
 
 ### Alltagsleben / 日常生活
-- [#Kommentar](https://sommer0708.github.io/Nicht-Orte/tags/#Kommentar) 
+- [#Kommentar](https://sommer0708.github.io/tags/kommentar/) 
 	-  / 一些随想与吐槽
-- [#Chinesisch](https://sommer0708.github.io/Nicht-Orte/tags/#Chinesisch) 
+- [#Chinesisch](https://sommer0708.github.io/tags/chinesisch/) 
 	- / 主要针对简中平台的现象与事件
-- [#Interesse](https://sommer0708.github.io/Nicht-Orte/tags/#Interesse) 
+- [#Interesse](https://sommer0708.github.io/tags/interesse/) 
 	- 努力挖掘生活乐趣 XD
-- [#Feminismus]()
+- [#Feminismus](https://sommer0708.github.io/tags/feminismus/)
 	- 女性相关
 - [#Spiele]() 
 	- 游戏相关，包括音乐推荐、游戏测评和趣事小记等
