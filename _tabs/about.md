@@ -17,7 +17,7 @@ Sie können mir Ihre Meinung über das Neue mitteilen und mit mir über Literatu
 ### Dissertation / 论文相关
 - [#Weekly Summary](https://sommer0708.github.io/tags/weekly-summary/) 
 	- wöchentliche Planungen und Feedbacks / 每周计划打卡+回顾
-- [#Rezensionen]() 
+- [#Rezensionen](https://sommer0708.github.io/tags/rezension/) 
 	- Literarische Rezensionen / 评论性文章
 
 ### Alltagsleben / 日常生活
