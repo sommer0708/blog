@@ -29,7 +29,7 @@ Sie können mir Ihre Meinung über das Neue mitteilen und mit mir über Literatu
 	- 努力挖掘生活乐趣 XD
 - [#Feminismus](https://sommer0708.github.io/tags/feminismus/)
 	- 女性相关
-- [#Spiele]() 
+- [#Spiele](https://sommer0708.github.io/tags/spiele/) 
 	- 游戏相关，包括音乐推荐、游戏测评和趣事小记等
 
  ---
