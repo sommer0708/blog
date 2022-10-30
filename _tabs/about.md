@@ -40,7 +40,7 @@ Sie können mir Ihre Meinung über das Neue mitteilen und mit mir über Literatu
 	<th><font face="宋体"><font style="color:#4B5658">欢迎来到我的自居地~ </font></font></th>
     </tr>
         <tr >
-        <font style="background:#F5FFFA"><font face="calibri" color=saddlebrown>✨ Sprachenlernende: *Life is too short to learn German.*<br>✨ Doktorandin: Literatur der Romantik, Medienwissenschaft, Raumtheorien, Feminismus<br>✨ Literatur - Gaming - Musik. . . Leben</font></font>
-        <font style="background:#F5FFFA"><font color=mediumpurple>💕 “熄灭已久的灯塔，被水手们的目光照亮。”<br>💕 “眼泪是我们对这个世界还有触动的证据。”<br>💕 一个写作ENFP的回笼觉爱好者。</font></font>
+        <td bgcolor=mintcream><font face="calibri" color=saddlebrown>✨ Sprachenlernende: *Life is too short to learn German.*<br>✨ Doktorandin: Literatur der Romantik, Medienwissenschaft, Raumtheorien, Feminismus<br>✨ Literatur - Gaming - Musik. . . Leben</td>
+        <td bgcolor=mintcream><font face="calibri" color=mediumpurple>💕 “熄灭已久的灯塔，被水手们的目光照亮。”<br>💕 “眼泪是我们对这个世界还有触动的证据。”<br>💕 一个写作ENFP的回笼觉爱好者。</td>
     </tr>
 
