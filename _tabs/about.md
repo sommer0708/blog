@@ -31,16 +31,18 @@ Sie können mir Ihre Meinung über das Neue mitteilen und mit mir über Literatu
 	- 女性相关
 - [#Spiele](https://sommer0708.github.io/tags/spiele/) 
 	- 游戏相关，包括音乐推荐、游戏测评和趣事小记等
+- [#Deutschlernen](https://sommer0708.github.io/tags/deutschlernen/) 
+  - 德语学习相关，一些有趣的词语或句子
 
  ---
  
  <table border="1" cellspacing="0" cellpadding="2" width="auto" height="auto">
     <tr align="center">
-      	<th><font face="calibri"><font style="color:#4B5658">Willkommen, liebe FreundInnen!</font></font></th>
-	<th><font face="宋体"><font style="color:#4B5658">欢迎来到我的自居地~ </font></font></th>
+      	<th><font style="color:#4B5658">Willkommen, liebe FreundInnen!</font></th>
+	<th><font style="color:#4B5658">欢迎来到我的自居地~ </font></th>
     </tr>
         <tr >
-        <td bgcolor=mintcream><font face="calibri" color=saddlebrown>✨ Sprachenlernende: *Life is too short to learn German.*<br>✨ Doktorandin: Literatur der Romantik, Medienwissenschaft, Raumtheorien, Feminismus<br>✨ Literatur - Gaming - Musik. . . Leben</td>
-        <td bgcolor=mintcream><font face="calibri" color=mediumpurple>💕 “熄灭已久的灯塔，被水手们的目光照亮。”<br>💕 “眼泪是我们对这个世界还有触动的证据。”<br>💕 一个写作ENFP的回笼觉爱好者。</td>
+        <td bgcolor=mintcream><font color=saddlebrown>✨ Sprachenlernende: *Life is too short to learn German.*<br>✨ Doktorandin: Literatur der Romantik, Medienwissenschaft, Raumtheorien, Feminismus<br>✨ Literatur - Gaming - Musik. . . Leben</font></td>
+        <td bgcolor=mintcream><font face="calibri" color=mediumpurple>💕 “熄灭已久的灯塔，被水手们的目光照亮。”<br>💕 “眼泪是我们对这个世界还有触动的证据。”<br>💕 一个写作ENFP的回笼觉爱好者。</font></td>
     </tr>
 
