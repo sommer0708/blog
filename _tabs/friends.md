@@ -13,7 +13,7 @@ order: 5
  ### Blogs
  - [After 27](https://www.after27.me/about)
    - 她乡上的友邻，关于极简生活的分享给人很多启发，一些评论文字读起来也十分舒适。
- - [堂本栞](https://shiorireads.ca/)
+ - [June|六月](https://shiorireads.ca/)
    - 在论坛开Blog交换贴的媎妹~~（指引我找朋友hhh）~~
    - 勾起了我当年追日剧刷日综听JPOP的回忆XD
  - [椒盐豆豉](https://blog.douchi.space/)  
