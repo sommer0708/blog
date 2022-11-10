@@ -37,9 +37,11 @@ Sie können mir Ihre Meinung über das Neue mitteilen und mit mir über Literatu
  ---
  
  ## Links
- 
+ ### Forum
  - [她乡](https://womenoverseas.com/)
    - 海外华人女性成长互助社区
+ 
+ ### Blogs
  - [After 27](https://www.after27.me/about)
    - 她乡上的友邻，关于极简生活的分享给人很多启发，一些评论文字读起来也十分舒适。
  - [堂本栞](https://shiorireads.ca/)
