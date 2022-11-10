@@ -49,6 +49,8 @@ Sie können mir Ihre Meinung über das Neue mitteilen und mit mir über Literatu
    -  阅读感受是：充实！同样是博士生，总感觉人家一天的时间比自己长好多呢hhh
    -  喜欢她提供的女性视角，包括对女性本身以及对亲密关系的思考
  
+ ---
+ 
  <table border="1" cellspacing="0" cellpadding="2" width="auto" height="auto">
     <tr align="center">
       	<th><font style="color:#4B5658">Willkommen, liebe FreundInnen!</font></th>
