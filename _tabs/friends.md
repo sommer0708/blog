@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 友邻
 icon: fas fa-info-circle
 order: 5
