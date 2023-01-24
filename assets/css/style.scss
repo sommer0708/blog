@@ -10,3 +10,13 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 @import "{{ site.theme }}";
 
 /* append your custom style below */
+
+.hidden {
+  background: #000;
+  font-color: #000;
+  transition: background 0.5s ease;
+}
+
+.hidden:hover {
+  background: none;
+}
